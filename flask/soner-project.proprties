@@ -1,0 +1,7 @@
+sonar.projectKey=snake-game
+sonar.projectName=Snake Game Demo
+sonar.projectVersion=1.0
+sonar.sources=.
+sonar.language=py
+sonar.host.url=http://localhost:9000
+sonar.login=sqa_427ff3c76489efbb6fba5291de9fbe4ad7df917d
